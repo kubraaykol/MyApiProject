@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.DtoLayer.deps.json
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.DtoLayer.dll
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.DtoLayer.pdb
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.EntityLayer.dll
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net8.0\HotelProject.EntityLayer.pdb
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelPro.8E3252AA.Up2Date
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.dll
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\refint\HotelProject.DtoLayer.dll
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.pdb
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\hp\Desktop\Project\MyApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net8.0\ref\HotelProject.DtoLayer.dll
