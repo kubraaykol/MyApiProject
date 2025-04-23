@@ -1,0 +1,52 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MSBuild Binary Log
+*.binlog
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.NuGet.Config
+.nuget/
+
+# Entity Framework
+*.ldb
+*.db
+*.db-shm
+*.db-wal
+
+# docker & docker-compose
+**/docker-compose.override.yml
+**/.env
+
+# Others
+*.log
+*.tlog
+*.cache
+*.vspsc
